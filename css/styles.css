@@ -1,0 +1,28 @@
+
+  img {
+  float: left;
+  margin-left: 25px;
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  overflow: hidden;
+  background-color: blue;
+}
+body{
+  background-color:C4DFAA;
+}
+h1{
+  color: 937DC2;
+}
+h3{
+color: 73A9AD;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+
+}
